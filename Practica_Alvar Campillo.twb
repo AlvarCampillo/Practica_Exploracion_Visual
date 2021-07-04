@@ -26736,7 +26736,7 @@
             <run bold='true' fontalignment='1' fontsize='15'>Comparación       irbnbs de</run>
           </formatted-text>
         </zone>
-        <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='4550' id='21' w='21003' x='69404' y='15168'>
+        <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='4557' id='21' w='23280' x='69400' y='15104'>
           <formatted-text>
             <run bold='true' fontsize='15'>con el </run>
             <run bold='true' fontcolor='#00a699' fontsize='15'>resto</run>
@@ -26756,8 +26756,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1950' minheight='1950' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='66' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97916' id='65' param='vert' w='98828' x='586' y='1042'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='68' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97916' id='67' param='vert' w='98828' x='586' y='1042'>
                 <zone _.fcp.SetMembershipControl.false...type='bitmap' _.fcp.SetMembershipControl.true...type-v2='bitmap' fixed-size='48' h='6272' id='18' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/alvar/Desktop/I6Nm_yqh.png' w='2863' x='38126' y='1974'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -26806,7 +26806,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='4550' id='21' w='21003' x='69404' y='15168'>
+                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='4557' id='21' w='23280' x='69400' y='15104'>
                   <formatted-text>
                     <run bold='true' fontsize='15'>con el </run>
                     <run bold='true' fontcolor='#00a699' fontsize='15'>resto</run>
@@ -27181,7 +27181,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='3' />
+      <active id='-1' />
       <device-preview selected='Desktop'>
         <device name='Large Desktop Monitor' type='Desktop' />
       </device-preview>
